@@ -1,0 +1,36 @@
+Software notes for gardening control 
+
+for reference and open source notes ---
+
+github.com/gradyh/gradyHillhouseGarduino
+
+Video for reference 
+
+Arduino Garden Controller- Automatic watering and data logging 
+
+
+
+GradyHill Garduino summarization 
+
+#includes 
+#defines 
+initialize constants 
+initialize variales 
+
+error func 
+setup func 
+	establishes and checks connections
+	creates logfiles
+main loop
+	logs time
+	collects variables 
+	waters if below threshold 
+	logs 
+	stores logs to sd
+
+end
+
+
+
+
+

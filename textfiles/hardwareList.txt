@@ -1,0 +1,23 @@
+HardWare needed for this project
+
+	arduino uno *
+	SD card sheild
+	9V power supply *
+	solenoid valve
+	DHT22 Digital temperature and Humidity Sensor *
+	CdS Photoresistor *
+	VH400 soil moisture sensor 
+	therm200 soil temperature sensor 
+	resistors *
+	TIP120 transistor(or a mosfet or relay) for switching on the solenoid
+	Diode to clamp voltage spikes from the solenoid
+	A stevenson screen or other enclosure 	
+
+
+
+Useful websites for hardware 
+	
+	vegetronix.com
+	adafruit.com
+	amazon.com
+

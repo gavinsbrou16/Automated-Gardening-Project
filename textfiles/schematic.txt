@@ -1,0 +1,26 @@
+Schematic outline 
+
+arduino will have software to read from various sensors 
+	temperature 
+	humidity 
+	soil moisture 
+	light level
+ 
+if temp too high
+	fan()
+if humidty too low
+	mist()
+if soil moisture too low
+	water()
+if light level too high
+	shade() 
+
+most important is water()
+
+	this will requrie pump of some sort 
+
+arduino will record variables over time into log files 
+
+graphes will be produced to give insight into temperature/humidity/light 
+level effect on soil moisture
+

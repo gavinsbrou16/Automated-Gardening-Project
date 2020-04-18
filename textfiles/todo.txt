@@ -1,0 +1,10 @@
+TODO LIST FOR GARDENING AUTOMATION
+
+1. draw up designs for gardening bed 
+2. construct gardening bed 
+	a. make sure to account for sensors being placed in bed
+3. research and find schematics to circuts for arduino and sensors 
+4. go over GradyHill's software and see how to utilize this for our project
+5. design a prototype to measure soil moisture and temperature
+6. work out kinks 
+7. finalize  
