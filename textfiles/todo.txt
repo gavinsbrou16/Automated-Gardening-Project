@@ -7,4 +7,11 @@ TODO LIST FOR GARDENING AUTOMATION
 4. go over GradyHill's software and see how to utilize this for our project
 5. design a prototype to measure soil moisture and temperature
 6. work out kinks 
-7. finalize  
+7. finalize
+
+todo
+
+figure out how to set up circut(sensors) and how to read their outputs into
+a log file 
+
+  

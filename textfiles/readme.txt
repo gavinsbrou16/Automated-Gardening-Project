@@ -27,4 +27,9 @@ DONE SO FAR 3/17/20
 -outlined design process
 -created a plan of action
 -outsourced for help/guidance
--created a todo list 
+-created a todo list
+
+TODAY 3/18/20
+
+Got github set up
+ 
