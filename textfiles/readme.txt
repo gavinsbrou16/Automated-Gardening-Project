@@ -32,4 +32,11 @@ DONE SO FAR 3/17/20
 TODAY 3/18/20
 
 Got github set up
+
+TODAY 5/15/20
+
+Now that finals are over I've decided to put some time into this project
+I just ordered some parts/sensors to begin experimentation
+
+
  
